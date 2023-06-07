@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pintura/escena1y2_y_nameJuego.png</file>
+        <file>pintura/ZORRO_caminaOK_saltaOk 850X920.png</file>
+        <file>pintura/SPLITE_ROEDOR_PNG.png</file>
+    </qresource>
+</RCC>
